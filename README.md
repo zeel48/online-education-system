@@ -1,1 +1,2 @@
 # online-education-system
+The "Online Education System" repository by user zeel48 on GitHub contains an ASP.NET-based project that appears to facilitate online education. The repository includes a variety of ASP.NET files, C# backend scripts, and front-end resources like HTML and CSS. It features multiple pages like "Registration," "Feedback," "Student/Staff Password Recovery," and "Staff Report." The project likely enables user interaction through these forms, although specific functionality and implementation details would require deeper exploration of the code itself. 
